@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+<body>
+   <header>
+        <section id="navbar">
+        <a href="index.html">HOME</a>
+        <a href="#about">ABOUT ME</a>
+        <a href="#edu">EXPERIENCE</a>
+        <a href="#skills">SKILLS</a>
+        <a href="#projects">PROJECTS</a>
+        <a href="#contact">CONTACT ME</a>
+        </section>
+       <h1> hello there </h1>
+   </header>  
+   <section id="about-me">
+        <h2> This is sections is  </h2>
+        <p> This is plain text. </p>
+   </section>
+   <section id="portfolio">
+       <img src="file_name.jpg" alt=" " id="portrait"> 
+<h2> This is section is</h2>
+       <p> This is plain text. </p>
+   </section>
+   <footer>
+        <div id="left">
+        <a href="index.html">HOME</a>
+        <a href="#about">ABOUT ME</a>
+        <a href="#edu">EXPERIENCE</a>
+        </div>
+ <div id=”middle”>
+<p> This is the middle column </p>
+</div>
+<div id=”right”>
+<p> This is the right column </p>
+</div>
+       <h1> This is a title of my website </h1>
+   </footer>
+</body>
